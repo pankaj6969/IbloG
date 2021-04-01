@@ -1,0 +1,36 @@
+<footer>
+        <div>
+            <hr>
+        </div>
+        <h5>fill free for any query</h5>
+        <div>
+            <form action="contact.php" method="post">
+                <div>
+                    <input type="text" name="name" id="name" placeholder="your name">
+                </div>
+                <div>
+                    <input type="email" name="email" id="email" placeholder="your email">
+                </div>
+                <div>
+                    <input type="text" name="query" id="query" placeholder="your query">
+                </div>
+                <div>
+                    <input type="submit" name="submit" id="submit" value="submit">
+                </div>
+            </form>
+        </div>
+        <div>
+            <p>check in : 22X7 at pali bilaspur</p>
+        </div>
+    </footer>
+    MYSQLI_NUM
+<div class="blog">
+            <div>
+                <hr>
+            </div>
+            <h3>NATIONAL INSTITUTE OF TECHNOLOGY</h3>
+            <p>National Institute of Technology Raipur is a public technical and research university located in Raipur, India. Founded in 1956 with two engineering disciplines, Mining and metallurgy, the university focuses exclusively on science, technology, engineering, and architecture.</p>
+            <h5>Nitian</h5>
+        </div>
+
+       
